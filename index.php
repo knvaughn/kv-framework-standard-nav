@@ -54,65 +54,39 @@
 					<nav class="col-lg-8">
 						<ul id="nav">
 							<li><a href="">Home</a></li>
-							<li><a href="">Departments</a>
+							<li><span>Government</span>
 								<ul>
-									<li><a href="">Management</a>
+									<li><a href="">Pellentesque Fringilla Euismod</a>
 										<ul>
-											<li><a href="">Management</a></li>
-											<li><a href="">Finance</a></li>
-											<li><a href="">Planning</a></li>
-											<li><a href="">Public Works</a></li>
-											<li><a href="">Police</a></li>
-											<li><a href="">Fire / EMS</a></li>
-											<li><a href="">Libraries</a></li>
-											<li><a href="">Education</a></li>
-											<li><a href="">Parks &amp; Recreation</a></li>
-											<li><a href="">Information Technology</a></li>
+											<li><a href="">Pellentesque Fringilla Euismod</a></li>
+											<li><a href="">Quam Cras Euismod Fermentum</a></li>
+											<li><a href="">Purus Ultricies Condimentum</a></li>
+											<li><a href="">Amet Consectetur Mattis</a></li>
+											<li><a href="">Euismod Pharetra Elit Mollis</a></li>
+											<li><a href="">Parturient Tortor Consectetur</a></li>
+											<li><a href="">Purus Amet Lorem Cras</a></li>
+											<li><a href="">Vulputate Venenatis Vulputate</a></li>
+											<li><a href="">Mattis Ipsum Fermentum</a></li>
+											<li><a href="">Pellentesque Fringilla Euismod</a></li>
+											<li><a href="">Quam Cras Euismod Fermentum</a></li>
 										</ul>
 									</li>
-									<li><a href="">Finance</a></li>
-									<li><a href="">Planning</a></li>
-									<li><a href="">Public Works</a></li>
-									<li><a href="">Police</a></li>
-									<li><a href="">Fire / EMS</a></li>
-									<li><a href="">Libraries</a></li>
-									<li><a href="">Education</a></li>
-									<li><a href="">Parks &amp; Recreation</a></li>
-									<li><a href="">Information Technology</a></li>
+									<li><a href="">Quam Cras Euismod Fermentum</a></li>
+									<li><a href="">Purus Ultricies Condimentum</a></li>
+									<li><a href="">Amet Consectetur Mattis</a></li>
+									<li><a href="">Euismod Pharetra Elit Mollis</a></li>
+									<li><a href="">Parturient Tortor Consectetur</a></li>
+									<li><a href="">Purus Amet Lorem Cras</a></li>
+									<li><a href="">Vulputate Venenatis Vulputate</a></li>
+									<li><a href="">Mattis Ipsum Fermentum</a></li>
+									<li><a href="">Pellentesque Fringilla Euismod</a></li>
+									<li><a href="">Quam Cras Euismod Fermentum</a></li>
 								</ul>
 							</li>
-							<li><a href="">About</a>
-								<ul>
-									<li><a href="">About The Area</a></li>
-									<li><a href="">Maps</a></li>
-									<li><a href="">Links</a></li>
-									<li><a href="">Photos</a></li>
-								</ul>
-							</li>
-							<li><span>Information</span>
-								<ul>
-									<li><span>How Do I?</span>
-										<ul>
-											<li><a href="">Management</a></li>
-											<li><a href="">Finance</a></li>
-											<li><a href="">Planning</a></li>
-											<li><a href="">Public Works</a></li>
-											<li><a href="">Police</a></li>
-											<li><a href="">Fire / EMS</a></li>
-											<li><a href="">Libraries</a></li>
-											<li><a href="">Education</a></li>
-											<li><a href="">Parks &amp; Recreation</a></li>
-											<li><a href="">Information Technology</a></li>
-										</ul>
-									</li>
-									<li><a href="">Contact Us</a></li>
-									<li><a href="">News</a></li>
-									<li><a href="">Announcements</a></li>
-									<li><a href="">Jobs</a></li>
-									<li><a href="">Minutes</a></li>
-									<li><a href="">RFP's</a></li>
-								</ul>
-							</li>
+							<li><a href="">Residents</a></li>
+							<li><a href="">Business</a></li>
+							<li><a href="">Visitors</a></li>
+							<li><a href="">How Do I...</a></li>
 						</ul>
 					</nav>
 					<div class="col-lg-2">
