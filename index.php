@@ -54,7 +54,7 @@
 					<nav class="col-lg-8">
 						<ul id="nav">
 							<li><a href="">Home</a></li>
-							<li><span>Government</span>
+							<li><a href="">Government</a>
 								<ul>
 									<li><a href="">Pellentesque Fringilla Euismod</a>
 										<ul>
